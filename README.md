@@ -1,5 +1,5 @@
 # RSA Decryption Tool
-## A program for CS 111, UC Riverside's upper-division Discrete Structures course
+### A program for CS 111, UC Riverside's upper-division Discrete Structures course
 A small-scale RSA decryption program developed in C++ for the CS 111 course at the University of California, Riverside.
 
 The program takes the public key $(\textcolor{lime}{e}, \textcolor{orange}{n})$ as well as the number of encrypted characters-mapped-to-numbers $\textcolor{violet}{m}$ as user input.
